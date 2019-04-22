@@ -18,9 +18,9 @@ The Unity ML-agents toolkit version 4.0 also has to be installed: https://github
 
 Please follow the Unity ML-agents installation guide when installing the ML-agents toolkit: https://github.com/Unity-Technologies/ml-agents/blob/0.4.0b/docs/Installation.md
 
-The TensorFlowSharp plugin also has to be installed: https://github.com/migueldeicaza/TensorFlowSharp
+The TensorFlowSharp plugin also has to be installed: https://s3.amazonaws.com/unity-ml-agents/0.4/TFSharpPlugin.unitypackage
 
-The documentation for installing TensorFlowSharp is also provided in their README file.
+More details on the TensorFlowSharp installation can be found here: https://github.com/Unity-Technologies/ml-agents/blob/0.4.0b/docs/Using-TensorFlow-Sharp-in-Unity.md
 
 After the plugin and toolkit have been installed please open the project in Unity and do the following to enable the ML-agents toolkit:
 
